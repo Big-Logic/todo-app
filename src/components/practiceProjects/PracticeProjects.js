@@ -7,13 +7,8 @@ const PracticeProjects = () => {
       <Card className={classes['inner__wrapper']}>
         <SingleProject
           projectLink="https://weather-cdbieljvu-big-logic.vercel.app/"
-          projectStatus="In Progress"
+          projectStatus="In progress. Not yet responsive"
           projectName="Weather App"
-        />
-        <SingleProject
-          projectLink="https://weather-cdbieljvu-big-logic.vercel.app/"
-          projectStatus="In Progress"
-          projectName="Fruit Online Store"
         />
       </Card>
     </Card>
