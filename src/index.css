@@ -59,3 +59,17 @@ button {
 a {
   text-decoration: none;
 }
+
+.back__btn {
+  font-size: 2.5rem;
+  display: grid;
+  width: 4rem;
+  height: 4rem;
+  align-items: center;
+  justify-content: center;
+  margin: 1rem 0 0 1rem;
+  /* padding: 0.2rem; */
+  border-radius: 50%;
+  background-color: #c92c6d;
+  color: #fff;
+}
