@@ -1,0 +1,6 @@
+.task__view--wrapper {
+  background-color: #f0eeed;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}

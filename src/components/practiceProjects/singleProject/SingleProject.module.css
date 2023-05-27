@@ -1,0 +1,32 @@
+.single__project--wrapper {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 90fr 10fr;
+  align-items: center;
+  background-color: #fff;
+  margin-bottom: 2rem;
+  gap: 1rem;
+}
+
+.project__title {
+  color: #332c39;
+}
+
+.project__status {
+  color: #332c39;
+  font-size: 1.1rem;
+  line-height: 1.3;
+}
+
+.project__action--btn {
+  width: 3rem;
+  height: 3rem;
+  background-color: #f0eeed;
+  padding: 0.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+  font-size: 2.5rem;
+  color: #332c39;
+}

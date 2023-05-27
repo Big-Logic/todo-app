@@ -1,0 +1,18 @@
+.newtask__btn--wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.new__task--btn {
+  display: inline-block;
+  padding: 1rem;
+  font-weight: 600;
+  border-radius: 10px;
+  background-color: #332c39;
+  color: #fff;
+}
+
+.new__task--btn:hover {
+  background-color: #5c5661;
+}

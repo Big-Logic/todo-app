@@ -1,0 +1,14 @@
+.app__wrapper {
+  max-width: 70rem;
+  margin: 0 auto;
+}
+
+.app__inner--wrapper {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.app__header {
+  text-align: center;
+}
+
